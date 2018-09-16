@@ -2,12 +2,6 @@ theme: jekyll-theme-minimal
 title: Eduardo Prieto Araujo
 description: Lecturer at the Electrical Engineering Department at UPC
 
-# Site Author
-author:
-  name             : "Eduardo Prieto-Araujo"
-  avatar           : "test.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-
+logo: test.jpg
+show_downloads: true
+google_analytics:
