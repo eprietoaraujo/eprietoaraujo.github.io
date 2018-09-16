@@ -1,9 +1,12 @@
 ## Welcome to my personal website!
 
-### Positions
+### Personal information
 
-- Lecturer of the Electrical Engineering Department at Universitat Politècnica de Catalunya (UPC)
+- Lecturer of the Electrical Engineering Department at Universitat Politècnica de Catalunya [(UPC)](http://www.upc.edu)
 - Member of [CITCEA-UPC](http://www.citcea.upc.edu) research group
+- Phone: +34 93 401 07 03
+- Address: Av. Diagonal, 647, 2n floor, office 2-34
+- [Google scholar](https://scholar.google.com/citations?user=nAd3-oYAAAAJ&hl=en) profile
 
 ### Research areas
 
