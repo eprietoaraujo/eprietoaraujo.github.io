@@ -4,8 +4,8 @@ description: Lecturer at the Electrical Engineering Department at UPC
 
 # Site Author
 author:
-  name             : Eduardo Prieto-Araujo
-  avatar           : "profile.png"
+  name             : "Eduardo Prieto-Araujo"
+  avatar           : "test.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
