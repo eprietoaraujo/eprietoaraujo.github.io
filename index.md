@@ -1,9 +1,9 @@
 ## Welcome to my personal website!
 
 ### Positions
-Lecturer of the Electrical Engineering Department at Universitat Politècnica de Catalunya (UPC)
-Member of [CITCEA-UPC](http://www.citcea.upc.edu) research group
-[Google scholar](https://scholar.google.com/citations?user=nAd3-oYAAAAJ&hl=en) profile
+
+- Lecturer of the Electrical Engineering Department at Universitat Politècnica de Catalunya (UPC)
+- Member of [CITCEA-UPC](http://www.citcea.upc.edu) research group
 
 ### Research areas
 
