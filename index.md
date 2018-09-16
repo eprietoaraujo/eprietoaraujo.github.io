@@ -1,5 +1,17 @@
 ## Welcome to my personal website!
 
+### Positions
+Lecturer of the Electrical Engineering Department at Universitat Politècnica de Catalunya (UPC)
+Member of [CITCEA-UPC](http://www.citcea.upc.edu) research group
+[Google scholar](https://scholar.google.com/citations?user=nAd3-oYAAAAJ&hl=en) profile
+
+### Research areas
+
+- Power converter control
+- High voltage Direct Current (HVDC) converters and networks
+- Power electronics converters in power systems
+
+
 You can use the [editor on GitHub](https://github.com/eprietoaraujo/eprietoaraujo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
