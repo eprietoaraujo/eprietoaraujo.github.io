@@ -20,5 +20,3 @@
 - Interactions between power converters
 - Microgrids
 - DC networks
-
-## Publications
