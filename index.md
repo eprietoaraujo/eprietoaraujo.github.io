@@ -14,7 +14,7 @@
 ## Research areas
 
 - Power converters control
-- Grid integration of renewable Energy
+- Grid integration of renewable energy
 - High voltage Direct Current (HVDC) converters and networks
 - Power electronics dominated power systems
 - Interactions between power converters
