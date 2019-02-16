@@ -1,6 +1,8 @@
 ## Personal information
 
-- Lecturer of the Electrical Engineering Department at Universitat Politècnica de Catalunya [(UPC)](http://www.upc.edu)
+{% comment %}
+Lecturer of the Electrical Engineering Department at Universitat Politècnica de Catalunya [(UPC)](http://www.upc.edu)
+{% endcomment %}
 - Member of [CITCEA-UPC](http://www.citcea.upc.edu) research group
 - email: eduardo.prieto-araujo@upc.edu
 - Phone: +34 93 401 07 03
