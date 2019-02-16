@@ -1,8 +1,6 @@
 ## Personal information
 
-{% comment %}
-Lecturer of the Electrical Engineering Department at Universitat Politècnica de Catalunya [(UPC)](http://www.upc.edu)
-{% endcomment %}
+- Lecturer of the Electrical Engineering Department at Universitat Politècnica de Catalunya [(UPC)](http://www.upc.edu)
 - Member of [CITCEA-UPC](http://www.citcea.upc.edu) research group
 - email: eduardo.prieto-araujo@upc.edu
 - Phone: +34 93 401 07 03
@@ -29,7 +27,7 @@ Lecturer of the Electrical Engineering Department at Universitat Politècnica de
 - [Link to another page](./another-page.html).
 - [Link to another page](./another-page.html).
 
-
+{% comment %}
 ---
 layout: default
 ---
@@ -153,3 +151,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+{% endcomment %}
