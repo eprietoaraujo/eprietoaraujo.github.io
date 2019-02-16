@@ -23,6 +23,6 @@
 
 ## Resources
 
-- [Link to another page](./news.html).
-- [Link to another page](./talks.html).
-- [Link to another page](./documents.html).
+- [Link to another page](./news.md).
+- [Link to another page](./talks.md).
+- [Link to another page](./documents.md).
