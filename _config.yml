@@ -1,8 +1,6 @@
 title: Eduardo Prieto
 logo: /assets/img/test2.jpg
-{% comment %}
-description: Menimal is a theme for GitHub Pages.
-show_downloads: true
+description: Personal page
+show_downloads: false
 google_analytics:
-theme: jekyll-theme-minimal
-{% comment %}
+theme:
