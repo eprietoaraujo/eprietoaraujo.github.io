@@ -58,6 +58,31 @@ Journal: IEEE Transactions on Power Delivery, vol. 32, pp. 11-22.
 Link to text: http://ieeexplore.ieee.org/abstract/document/7368201/
 
 
+### 2015
+Title: DC voltage droop control design for multi-terminal HVDC systems considering AC and DC grid dynamics
+Authors: E. Prieto-Araujo, A. Egea-Alvarez, S. Fekriasl, O. Gomis-Bellmunt.
+Journal: IEEE Transactions on Power Delivery, vol. 31, pp. 575-585
+Link to text: http://ieeexplore.ieee.org/document/7140832/
+
+Title: Renewable energy emulation concepts for microgrids
+Authors: E. Prieto-Araujo, P. Olivella-Rosell, M. Cheah-Mañé, R. Villafafila-Robles, O. Gomis-Bellmunt.
+Journal: Renewable and Sustainable Energy Reviews, vol. 50, pp. 325-345.
+Link to text: http://www.sciencedirect.com/science/article/pii/S1364032115003718
+ 
+
+Title: Experimental validation of a single phase intelligent power router
+Authors: J.M. Rodriguez-Bernuz, E. Prieto-Araujo, F. Girbau-Llistuella, A. Sumper, R. Villafáfila-Robles, J. A. Vidal-Clos. 
+Journal: Sustainable energy grids and networks, vol.4, pp. 1-15.pp. 325-345.
+Link to text: http://www.sciencedirect.com/science/article/pii/S2352467715000405
+
+Title: Decentralized control of a nine-phase permanent magnet generator for offshore wind turbines
+Authors: E. Prieto-Araujo, A. Junyent-Ferré, D. Lavèrnia-Ferrer, O. Gomis-Bellmunt
+Journal: IEEE Transactions on Energy Conversion, vol.30, pp. 1103-1112.
+Link to text: http://ieeexplore.ieee.org/document/7081362/
+Second best paper award IEEE Transactions on Energy Conversion of the period 2014-2015
+Prize delivered by the “Electrical Machinery Committee” during the annual meeting in the conference IEEE PES General Meeting, Boston, 2016.
+Link: http://ieeexplore.ieee.org/ielx7/60/7333020/07333059.pdf
+
 
 
 
