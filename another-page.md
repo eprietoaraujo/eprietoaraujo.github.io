@@ -83,7 +83,12 @@ Second best paper award IEEE Transactions on Energy Conversion of the period 201
 Prize delivered by the “Electrical Machinery Committee” during the annual meeting in the conference IEEE PES General Meeting, Boston, 2016.
 Link: http://ieeexplore.ieee.org/ielx7/60/7333020/07333059.pdf
 
+### 2011
+Title: Methodology for Droop Control Dynamic Analysis of Multiterminal VSC-HVDC Grids for Offshore Wind Farms
+Authors: E. Prieto-Araujo, F. Bianchi, A. Junyent-Ferré, O. Gomis-Bellmunt
+Journal: IEEE Transactions on Power Delivery, vol. 26, pp. 2476 - 2485
+Link to text: http://ieeexplore.ieee.org/document/5776724/
 
-
+### Conferences
 
 [back](./)
