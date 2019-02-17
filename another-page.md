@@ -8,12 +8,12 @@ layout: default
 - Series interline DC/DC Current Flow Controller for meshed HVDC grids.
 J. Sau-Bassols, E. Prieto-Araujo, O. Gomis-Bellmunt.
 IEEE Transactions on power delivery.
-Link to text:
+- Link to text:
 
 - Title: Small Signal Stability Analysis of Offshore AC Network having Multiple VSC-HVDC System.
 M. Raza, E. Prieto-Araujo, O. Gomis-Bellmunt.
 IEEE Transactions on power delivery.
-- [Link to text](http://ieeexplore.ieee.org/document/7974808/)
+- [Link to text](http://ieeexplore.ieee.org/document/7974808/) 
 
 - Title: Handling of Unbalanced Faults in HVDC-Connected Wind Power Plants
 - Authors: K. Schönleber, E. Prieto-Araujo, S. Ratés-Palau, O. Gomis-Bellmunt.
