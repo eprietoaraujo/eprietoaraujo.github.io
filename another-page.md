@@ -89,6 +89,32 @@ Authors: E. Prieto-Araujo, F. Bianchi, A. Junyent-Ferré, O. Gomis-Bellmunt
 Journal: IEEE Transactions on Power Delivery, vol. 26, pp. 2476 - 2485
 Link to text: http://ieeexplore.ieee.org/document/5776724/
 
+### Book chapters
+Chapter title: State-space representation of HVDC grids
+Authors: E. Prieto-Araujo, F. Bianchi.
+Book: HVDC Grids: For Offshore and Supergrid of the Future
+Pages: 383-395
+Editorial: Wiley-IEEE Press 
+Year: 2016
+ISBN: 978-1-118-85915-5
+
+Chapter title: Wind turbine technologies
+Authors: E. Prieto-Araujo, O. Gomis-Bellmunt.
+Book: HVDC Grids: For Offshore and Supergrid of the Future
+Pages: 113-127
+Editorial: Wiley-IEEE Press 
+Year: 2016
+ISBN: 978-1-118-85915-5
+
+Chapter title: Optimal droop control of multi-terminal VSC-HVDC grids 
+Authors: F. Bianchi, E. Prieto-Araujo.
+Book: HVDC Grids: For Offshore and Supergrid of the Future
+Pages: 475-491
+Editorial: Wiley-IEEE Press 
+Year: 2016
+ISBN: 978-1-118-85915-5
+
+
 ### Conferences
 
 [back](./)
