@@ -23,9 +23,9 @@
 
 ## Resources
 
-- [Publications](./another-page.html).
-- [Link to another page](./another-page2.html).
-- [Link to another page](./pdfs/CV_brief_Prieto_11_02_2019.pdf).
+- [Publications](./another-page.html)
+- [Link to another page](./another-page2.html)
+- [Link to another page](./pdfs/CV_brief_Prieto_11_02_2019.pdf)
 
 {% comment %}
 ---
