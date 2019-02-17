@@ -116,77 +116,77 @@ ISBN: 978-1-118-85915-5
 
 
 ### Conferences
-
+### 2017
 Title: Interaction study between VSC-HVDC converters and DFIG-based WPPs connected to the AC network.
 Authors: E. Prieto-Araujo, E. Sánchez-Sánchez, S. Galceran-Arellano, O. Gomis-Bellmunt.
 Conference: 16th Wind Integration Workshop
 Date: 25-27 Oct 2017
 Location: Berlin, Germany
-Format: Paper and presentation (1st author). Accepted for publication.
 Link to text: http://windintegrationworkshop.org/wp-content/uploads/sites/6/2017/07/WIW17_program_WEB.pdf
+
 Title: Harmonic resonance interactions in HVDC-connected Offshore Wind Power Plants
 Authors: M. Cheah-Mane, L. Sainz, E. Prieto-Araujo, O. Gomis-Bellmunt.
 Conference: 16th Wind Integration Workshop
 Date: 25-27 Oct 2017
 Location: Berlin, Germany
-Format: Paper and presentation (1st author). Accepted for publication.
 Link to text: http://windintegrationworkshop.org/wp-content/uploads/sites/6/2017/07/WIW17_program_WEB.pdf
+
 Title: Fault ride-through of unbalanced AC grid faults in HVDC-connected offshore wind power plants
 Authors: K. Schönleber, E. Prieto Araujo, O. Gomis-Bellmunt.
 Conference: 16th Wind Integration Workshop
 Date: 25-27 Oct 2017
 Location: Berlin, Germany
-Format: Paper and presentation (1st author). Accepted for publication.
 Link to text: http://windintegrationworkshop.org/wp-content/uploads/sites/6/2017/07/WIW17_program_WEB.pdf
+
 Title: Interaction analysis of large-scale PV power plants considering the AC network
 Authors: E. Prieto-Araujo, R. Ferrer-San-Jose, O. Gomis-Bellmunt.
 Conference: 16th Solar Integration Workshop
 Date: 24-25 Oct 2017
 Location: Berlin, Germany
-Format: Paper and presentation (1st author). Accepted for publication.
 Link to text: http://windintegrationworkshop.org/wp-content/uploads/sites/6/2017/07/WIW17_program_WEB.pdf
+
 Title: Design and implementation of an LCL DC/DC converter prototype for DC grids
 Authors: R. Ferrer-San-Jose, E. Prieto-Araujo, O. Gomis-Bellmunt, F. Colas, D. Marin, X. Guillaud, M. Haijan, S. Nguefeu.
 Conference: International Conference on Components and Systems for DC grid (Cosys-DC)
 Date: 14-15 Mar 2017
 Location: Grenoble, France
-Format: Paper and presentation (1st author)
 Link to text: http://docs.wixstatic.com/ugd/2c2db2_395473a4dbc94bafb4d0ccc99a15f491.pdf
+
 Title: Design Methodology of the Primary Droop Voltage Control for DC Microgrids
 Authors: E. Prieto-Araujo, D. Bogdan Bolboceanu, E. Sánchez-Sánchez, O. Gomis-Bellmunt.
 Conference: 2nd International Conference on DC Microgrids
 Date: 27-29 Jun 2017
 Location: Nuremberg, Germany
-Format: Paper and presentation (1st author)
 Link to text: http://www.icdcm.co/wp-content/uploads/2016/07/ICDCM-2017-Final-Program.pdf
+
 Title: Disturbance Attenuation of DC Voltage Droop Control Structures in a Multi-Terminal HVDC Grid
 Authors: F. Thams, E. Prieto-Araujo, S. Chatzivasileiadis, R. Eriksson.
 Conference: 12th IEEE PES PowerTech Conference
 Date: 18-22 Jun 2017
 Location: Manchester, UK
-Format: Paper and presentation (1st author)
 Link to text: https://www.openconf.org/powertech2017/modules/request.php?module=oc_program&action=summary.php&id=627
 http://orbit.dtu.dk/files/132147741/Final_PowerTech.pdf
+
 Title: Suitable Method of Overloading for Fast Primary Frequency Control from Offshore Wind Power Plants in Multi-terminal DC Grid
 Authors: J. Sakamuri, J. Sau-Bassols, E. Prieto-Araujo, A.D. Hansen, Mufit Altin, N. Cutululis, O. Gomis-Bellmunt.
 Conference: 12th IEEE PES PowerTech Conference
 Date: 18-22 Jun 2017
 Location: Manchester, UK
-Format: Paper and presentation (4th author)
 Link to text: http://ieeexplore.ieee.org/document/7981189/
+
 Title: Coordinated control design of the voltage and current loop of a Current Flow Controller for meshed HVDC grids
 Authors: J. Sau-Bassols, R. Ferrer-San-José, E. Prieto-Araujo, O. Gomis-Bellmunt.
 Conference: 13th IET International Conference on AC and DC Power Transmission (ACDC 2017)
 Date: 14-16 Feb 2017
 Location: Manchester, UK
-Format: Paper and presentation (1st author)
 Link to text: http://ieeexplore.ieee.org/document/7934980/
+
 Title: Multi-terminal HVDC voltage droop control design considering DC grid, AC grid and MMC dynamics
 Authors: E. Sánchez-Sánchez, E. Prieto-Araujo, O. Gomis-Bellmunt
 Conference: 13th IET International Conference on AC and DC Power Transmission (ACDC 2017)
 Date: 14-16 Feb 2017
 Location: Manchester, UK
-Format: Paper and presentation (1st author)
+
 Link to text: http://ieeexplore.ieee.org/document/7934981/
  
 Title: Mitigation of harmonic interactions by the VSC-HVDC converter in variable networks
@@ -194,29 +194,32 @@ Authors: A. Bayo-Salas, J. Beerten, D. Van Hertem, E. Prieto-Araujo, O. Gomis-Be
 Conference: 13th IET International Conference on AC and DC Power Transmission (ACDC 2017)
 Date: 14-16 Feb 2017
 Location: Manchester, UK
-Format: Paper and presentation (1st author)
 Link to text: http://ieeexplore.ieee.org/document/7934965/
+
+### 2016
 Title: Impact of the DC cable models on the SVD analysis of a Multi-Terminal HVDC system
 Authors: S. Akkary, E. Prieto-Araujo, J. Dai, O. Gomis-Bellmunt, X. Guillaud.
 Conference: Power Systems Computation Conference (PSCC)
 Date: 20-24 June 2016
 Location: Genoa, Italy
-Format: Paper and presentation (1st author)
 Link to text: http://ieeexplore.ieee.org/document/7541034/
+
+### 2015
 Title: Current Source Converter series tapping of a LCC-HVDC transmission system for integration of offshore wind power plants 
 Authors: J. Sau-Bassols, A. Egea-Alvarez, E. Prieto-Araujo, O. Gomis-Bellmunt.
 Conference: 11th IET International Conference on AC and DC Power Transmission
 Date: 10-12 Feb 2015
 Location: Birmingham, UK
-Format: Paper and presentation (1st author)
 Link to text: http://ieeexplore.ieee.org/document/7140599/
+
 Title: Control and experimental validation of a Dual Active Bridge Series Resonant Converter
 Authors: E. Prieto-Araujo, S. Fekriasl, O. Gomis-Bellmunt.
 Conference: IEEE 6th International Symposium on Power Electronics for Distributed Generation Systems (PEDG)
 Date: 22-25 – Jun 2015
 Location: Aachen, Germany
-Format: Paper and presentation (1st author)
 Link to text: http://ieeexplore.ieee.org/document/7223106/
+
+### 2014
 Title: Emulación de dos microrredes operadas conjuntamente para su participación en el mercado eléctrico
 Authors: P. Olivella-Rosell, G. Vinyals-Canal, E. Prieto-Araujo, J. Bergas-Jane.
 Conference: II Congreso Smart Grids.
@@ -230,29 +233,28 @@ Authors: E. Prieto-Araujo, A. Vidal-Clos, G. Clariana-Colet, G. Vinyals-Canal, R
 Conference: II Congreso Smart Grids
 Date: 27-28 Oct 2014.
 Location: Madrid, Spain
-Format: Paper and presentation (1st author) 
 Link to text: https://www.smartgridsinfo.es/wp-content/uploads/2016/11/3-congreso-smart-grids-2016-libro-comunicaciones.pdf
+
 Title: Experimental validation of a single phase intelligent power router
 Authors: F. Girbau-Llistuella, J. M. Rodriguez-Bernuz, E. Prieto-Araujo, A. Sumper.
 Conference: IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT-Europe)
 Date: 12-15 Oct 2014
 Location: Istanbul, Turkey
-Format: Paper and presentation (1st author)
 Link to text: http://ieeexplore.ieee.org/document/7028775/
+
 Title: Microrred de laboratorio para la emulación de recursos energéticos distribuidos.
 Event: II Congreso Iberoamericano sobre Microrredes con Generación Distribuida de Renovables
 Authors: G. Vinyals Canal, A. Vidal Clos, G. Clariana Colet, E. Prieto Araujo, R. Villafáfila Robles, O. Gomis Bellmunt, A. Sudrià Andreu.
 Date: 6-8 Oct 2014
 Location: Soria, Spain
 Organizing entity: CEDER-CIEMAT
-Format: Paper and presentation (5th author)
 Link to event: http://upcommons.upc.edu/handle/2117/27740
+
 Title: Decentralized control design of a nine-phase permanent magnet generator
 Authors: E. Prieto-Araujo, A. Junyent-Ferré, D. Lavèrnia, O. Gomis-Bellmunt.
 Conference: International Wind Engineering Conference (IWEC)
 Date: 3-4 Sep 2014
 Location: Hannover, Germany
-Format: Paper and presentation (1st author)
 Link to text: http://edok01.tib.uni-hannover.de/edoks/e01fn14/812895681.pdf
  
 Title: Distributed control of a nine phase permanent magnet generator and scaled platform validation
@@ -260,45 +262,46 @@ Authors: E. Prieto-Araujo, A. Junyent-Ferré, D. Lavèrnia, O. Gomis-Bellmunt.
 Conference: EWEA Annual Event 2014
 Date: 10-13 Mar 2014
 Location: Barcelona, Spain
-Format: Paper and poster
 Link to text: 
 Paper: http://proceedings.ewea.org/annual2014/conference/finalfpp/759_annual2014presentationfinal.pdf
 Poster:
 http://proceedings.ewea.org/annual2014/conference/posters/PO_338_EWEApresentation2014.pdf
+
+### 2013
 Title: Microgrids and emulation of distribution energy resources.
 Event: I Congreso Iberoamericano sobre Microrredes con Generación Distribuida de Renovables
 Authors: M. Cheah-Mañé, E. Prieto-Araujo, R. Villafáfila-Robles, A. Sudrià-Andreu, O. Gomis-Bellmunt.
 Date: 23-24 Sep 2013
 Location: Soria, Spain
 Organizing entity: CEDER-CIEMAT
-Format: Paper and oral presentation (3rd author)
 Link to event: http://www.microrredesinteligentes.com/documentos/programa_final.pdf
+
 Title: Single phase to balanced three phase load converter control
 Authors: A. Junyent-Ferré, M. Cheah-Mañé, E. Prieto-Araujo, O. Gomis-Bellmunt.
 Conference: 15th European Conference on Power Electronics and Applications (EPE)
 Date: 3-5 Sep 2013
-Format: Paper and poster
 Location: Barcelona, Spain
 Link to text: http://ieeexplore.ieee.org/document/6634688/
+
 Title: Development of a laboratory platform for testing new solutions to integrate renewable energy sources in power systems
 Authors: E. Prieto-Araujo, M. Cheah-Mañé, A. Junyent-Ferré, O. Gomis-Bellmunt
 Conference: 15th European Conference on Power Electronics and Applications (EPE)
 Date: 3-5 Sep 2013
-Format: Paper and poster
 Location: Barcelona, Spain
 Link to text: http://ieeexplore.ieee.org/document/6634674/
+
+### 2011
 Title: Droop control design of multi-terminal HVDC Systems for offshore wind farms
 Authors: E. Prieto-Araujo, F. Bianchi, A. Junyent-Ferré, O. Gomis-Bellmunt
 Conference: IV Seminar for Advanced Industrial Control Applicactions
 Date: Nov, 2011
-Format: Paper and presentation (1st author)
 Location: Barcelona, Spain
+
 Title: Voltage sag ride through of PMSG wind turbines using droop control stabilization
 Authors: A. Junyent-Ferré, E. Prieto-Araujo, O. Gomis-Bellmunt, F. Bianchi
 Conference: 14th European Conference on Power Electronics and Applications
 Date: 30 Aug – 01 Sep, 2011
 Location: Birmingham, UK
-Format: Paper and poster
 Link to text: http://ieeexplore.ieee.org/document/6020475/
 
 
