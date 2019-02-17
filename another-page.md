@@ -10,10 +10,10 @@ J. Sau-Bassols, E. Prieto-Araujo, O. Gomis-Bellmunt.
 IEEE Transactions on power delivery.
 Link to text:
 
-- Title: Small Signal Stability Analysis of Offshore AC Network having Multiple VSC-HVDC System
-- Authors: M. Raza, E. Prieto-Araujo, O. Gomis-Bellmunt.
-- Journal (title, volume, pages): IEEE Transactions on power delivery.
-- Link to text: http://ieeexplore.ieee.org/document/7974808/
+- Title: Small Signal Stability Analysis of Offshore AC Network having Multiple VSC-HVDC System.
+M. Raza, E. Prieto-Araujo, O. Gomis-Bellmunt.
+IEEE Transactions on power delivery.
+- [Link to text](http://ieeexplore.ieee.org/document/7974808/)
 
 - Title: Handling of Unbalanced Faults in HVDC-Connected Wind Power Plants
 - Authors: K. Schönleber, E. Prieto-Araujo, S. Ratés-Palau, O. Gomis-Bellmunt.
