@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Publications
-###2018
+### 2018
 - Title: Impedance Modelling and Parametric Sensitivity of a VSC-HVDC System: New Insights on Resonances and Interactions. 
 A. Agbemuko, J. L. Dominguez-Garcia, E. Prieto-Araujo, O. Gomis-Bellmunt.
 Energies.
