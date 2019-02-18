@@ -3,6 +3,34 @@ layout: default
 ---
 
 ## Publications
+###2018
+- Title: Impedance Modelling and Parametric Sensitivity of a VSC-HVDC System: New Insights on Resonances and Interactions. 
+A. Agbemuko, J. L. Dominguez-Garcia, E. Prieto-Araujo, O. Gomis-Bellmunt.
+Energies.
+Impact factor (Quartile): 2.262 (Q2 - Engineering, electrical and electronic)
+- Link to text:
+
+- Title: Fault Mode Operation Strategies for Dual H-Bridge Current Flow Controller in Meshed HVDC Grid.
+Authors: A. Mokhberdoran, J. Sau-Bassols, E. Prieto-Araujo, O. Gomis-Bellmunt, N. Silva, A. Carvalho.
+Electric Power Systems Research
+- [Link to text](https://www.sciencedirect.com/science/article/pii/S0378779618300397)
+
+- Title: Experimental Validation of Frequency Control from Offshore Wind Power Plants in Multi-Terminal DC Grids.
+J. N. Sakamuri, J. Sau-Bassols, E. Prieto-Araujo, O. Gomis-Bellmunt, M. Altin, A. D. Hansen, N. A. Cutululis.
+Journal (title, volume, pages): CIGRE Science & Engineering Journal. Accepted for publication.
+- Link to text
+
+- Title: Analysis of MMC Energy-based Control Structures for VSC-HVDC Links.
+E. Sánchez-Sánchez; E. Prieto-Araujo; A. Junyent-Ferré; and O. Gomis-Bellmunt.
+IEEE Journal of Emerging and Selected Topics in Power Electronics. Accepted for publication.
+- [Link to text](http://ieeexplore.ieee.org/document/8283706/)
+
+- Title: Extended current limitation for unbalanced faults in MMC-HVDC-connected wind power plants
+K. Schönleber, E. Prieto-Araujo, S. Ratés-Palau, O. Gomis-Bellmunt.
+IEEE Transactions on power delivery. Accepted for publication.
+- [Link to text](http://ieeexplore.ieee.org/document/8233156/)
+
+
 ### 2017
 
 - Series interline DC/DC Current Flow Controller for meshed HVDC grids.
