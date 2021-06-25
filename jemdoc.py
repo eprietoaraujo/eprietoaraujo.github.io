@@ -252,8 +252,7 @@ def standardconf():
   </div>
   
   [lastupdated]
-  Page generated |, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
-
+  
   [sourcelink]
   (<a href="|">source</a>)
 
@@ -574,9 +573,9 @@ def replaceimages(b):
   r = re.compile(r'(?<!\\)\[img((?:\{.*?\}){,3})\s(.*?)(?:\s(.*?))?(?<!\\)\]',
            re.M + re.S)
   m = r.search(b)
-  res = re.compile(r'{(.*?)}', re.M + re.S)
+  s = re.compile(r'{(.*?)}', re.M + re.S)
   while m:
-    m1 = list(res.findall(m.group(1)))
+    m1 = list(s.findall(m.group(1)))
     m1 += ['']*(3 - len(m1))
 
     bits = []
@@ -819,18 +818,6 @@ def gethl(lang):
     d['special'] = ['cols', 'optvar', 'param', 'problem', 'norm2', 'norm1',
             'value', 'minimize', 'maximize', 'rows', 'rand',
             'randn', 'printval', 'matrix']
-    d['error'] = ['\w*Error',]
-    d['commentuntilend'] = '#'
-    d['strings'] = True
-  elif lang in ['perl']:
-    d['statement'] = ['if', 'unless', 'while', 'until', 'for', 
-            'foreach', 'when', 'elsif', 'else']
-    d['builtin'] = ['my','our','local','state',
-            'return','last','next','redo','goto','break',
-            'open', 'close', 'print', 'sprintf', 'glob',
-            'use', 'no', 'my', 'local', 'our', 'system']
-    d['special'] = ['abs','atan2','cos','exp','hex',
-            'int','log','oct','rand', 'sin','sqrt','sran']
     d['error'] = ['\w*Error',]
     d['commentuntilend'] = '#'
     d['strings'] = True

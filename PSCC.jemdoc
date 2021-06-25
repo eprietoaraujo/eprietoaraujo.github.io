@@ -1,9 +1,0 @@
-# jemdoc: menu{MENU}{PSCC.html}, analytics{UA-10395500-2}
-= Adria Junyent-Ferre --- PSCC 2018
-Department of Electrical and Electronic Engineering, Imperial College London
-
-The following information is related to the tutorial I gave within a session entitled /Modeling and applications of energy storage systems in power grids - Stability and control of grid energy storage/ chaired by [https://eng.ox.ac.uk/people/david-howey/ Dr David Howey] at the XX Power Systems Computation Conference, [http://www.pscc2018.net/ PSCC 2018]. The title of the tutorial was [http://pscc2018.epfl.ch/rms/modules/request.php?module=oc_program&action=summary.php&id=844 Transient simulation of network battery storage systems].
-
-== Downloadable content
-- The slides from the presentation are available [https://imperialcollegelondon.box.com/s/xkn7eze73hg3af4ieemudoz1fhcx32b6 here] (4 MB).
-- The converter simulation files from the presentation are available [https://imperialcollegelondon.box.com/s/gh2dwtwgo4dvccmhrr00d2i1sfojy9iy here] (460 KB).
