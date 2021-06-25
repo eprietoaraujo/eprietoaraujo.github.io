@@ -1,2 +1,0 @@
-# eprietoaraujo.github.io
-website
