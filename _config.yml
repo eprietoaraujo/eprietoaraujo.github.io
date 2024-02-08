@@ -18,14 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Eduardo Prieto-Araujo personal webpage
-email: eduardo.prieto-araujo@upc.edu
+title: Eduardo Prieto-Araujo
+email: eduardo.prieto-araujo(at)upc.edu, eprieto(at)eroots.tech   
 description: >- # this means to ignore newlines until "baseurl:"
   I am Eduardo, Associate Professor at the Electrical Engineering Department at the Universitat Politècnica de Catalunya (UPC), member of CITCEA-UPC research group and Co-founder of [eRoots Analytics](www.eroots.tech).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @eduaraujo86
+twitter_username: eduaraujo86
 github_username:  eprietoaraujo
+linkedin_username: eprietoaraujo
 
 # Build settings
 theme: minima
